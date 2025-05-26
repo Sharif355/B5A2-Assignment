@@ -162,6 +162,3 @@ LIKE, IN, BETWEEN, IS NULL
 
 ```
 
----
-
-}
